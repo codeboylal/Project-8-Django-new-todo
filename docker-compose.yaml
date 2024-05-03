@@ -1,6 +1,6 @@
 version : "3.3"
 services :
   web:
-    image : lalbudha47/my-django-todo:latest
+    image : lalbudha47/new-django-app:latest
     ports :
       - "8000:8000"
